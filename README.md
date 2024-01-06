@@ -27,7 +27,9 @@
 ## Prerequisites
 
 :warning: [Terraform]
+
 :warning: [Linux OS]
+
 :warning: [Azure account with active subscription]
 
 ## How to run :arrow_forward:
