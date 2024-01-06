@@ -84,7 +84,7 @@ Terraform apply
 You will receive the IPs at the end of the run, and now you can connect on the jenkins server:
 
 ``` 
-ssh terraform@Server-IP
+ssh terraform@<server-ip>
 ```
 
 You can check if the jenkins service is up running:
