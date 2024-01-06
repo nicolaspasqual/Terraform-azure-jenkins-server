@@ -11,11 +11,17 @@
 ## Functionalities
 
 :heavy_check_mark: Create the resource group on Azure
+
 :heavy_check_mark: Create the virtual network on Azure  
+
 :heavy_check_mark: Create the network security group on Azure
+
 :heavy_check_mark: Create the network interfaces on Azure
+
 :heavy_check_mark: Create the public IPs on Azure
+
 :heavy_check_mark: Create the virtul machine 
+
 :heavy_check_mark: install de jenkins server
 
 ## Prerequisites
