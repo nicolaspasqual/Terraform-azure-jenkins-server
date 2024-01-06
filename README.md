@@ -100,7 +100,7 @@ You can also check if the jenkins is up on the browser:
 http://<server-ip>:8080/
 
 ```
-You can get the admin password running the following command in the server:
+You can get the admin password running the following command on the server:
 
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
