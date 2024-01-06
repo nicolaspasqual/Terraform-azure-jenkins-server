@@ -10,13 +10,13 @@
 
 ## Functionalities
 
-Create the resource group on Azure
-Create the virtual network on Azure  
-Create the network security group on Azure
-Create the network interfaces on Azure
-Create the public IPs on Azure
-Create the virtul machine 
-install de jenkins server
+:heavy_check_mark: Create the resource group on Azure
+:heavy_check_mark: Create the virtual network on Azure  
+:heavy_check_mark: Create the network security group on Azure
+:heavy_check_mark: Create the network interfaces on Azure
+:heavy_check_mark: Create the public IPs on Azure
+:heavy_check_mark: Create the virtul machine 
+:heavy_check_mark: install de jenkins server
 
 ## Prerequisites
 
@@ -42,20 +42,20 @@ https://learn.microsoft.com/en-us/azure/developer/terraform/authenticate-to-azur
 On the variables file configure:
 
 ```
-:heavy_check_mark: location
-:heavy_check_mark: RG
-:heavy_check_mark: vm-name
-:heavy_check_mark: vm-size
-:heavy_check_mark: admin-user
-:heavy_check_mark: os_publicher
-:heavy_check_mark: os-offer
-:heavy_check_mark: os-version
-:heavy_check_mark: vnet-name
-:heavy_check_mark: subnet-name
-:heavy_check_mark: adress_space
-:heavy_check_mark: adress_prefix
-:heavy_check_mark: nsg-name
-:heavy_check_mark: source_address_prefix
+* location
+* RG
+* vm-name
+* vm-size
+* admin-user
+* os_publicher
+* os-offer
+* os-version
+* vnet-name
+* subnet-name
+* adress_space
+* adress_prefix
+* nsg-name
+* source_address_prefix
 
 ```
 
