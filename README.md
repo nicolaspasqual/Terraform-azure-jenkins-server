@@ -10,19 +10,13 @@
 
 ## Functionalities
 
-:heavy_check_mark: Create the resource group on Azure
-
-:heavy_check_mark: Create the virtual network on Azure  
-
-:heavy_check_mark: Create the network security group on Azure
-
-:heavy_check_mark: Create the network interfaces on Azure
-
-:heavy_check_mark: Create the public IPs on Azure
-
-:heavy_check_mark: Create the virtul machine 
-
-:heavy_check_mark: install de jenkins server
+Create the resource group on Azure
+Create the virtual network on Azure  
+Create the network security group on Azure
+Create the network interfaces on Azure
+Create the public IPs on Azure
+Create the virtul machine 
+install de jenkins server
 
 ## Prerequisites
 
@@ -64,9 +58,9 @@ On the variables file configure:
 :heavy_check_mark: source_address_prefix
 
 ```
+
 On the main.tf file, configure your backend resource to save your terraform.state, you can also remove the entire backend session if you will not use a remote state folder.
 
-```
 
 On the project folder, execute the following commands to create the environment:
 
@@ -82,7 +76,7 @@ Terraform apply
 You will receive the IPs at the end of the run, and now you can connect on the jenkins server:
 
 ``` 
-ssh terraform@<Server-IP>
+ssh terraform@Server-IP
 ```
 
 You can check if the jenkins service is up running:
