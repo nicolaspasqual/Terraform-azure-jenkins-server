@@ -1,6 +1,6 @@
 <h1>Create a Jenkins server on Azure</h1> 
 
-> Status do Projeto: :heavy_check_mark: Done
+> Project status: :heavy_check_mark: Done
 
 ## Description 
 
